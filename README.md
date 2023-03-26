@@ -1,1 +1,6 @@
-## Hello world
+## Установка
+
+Установить зависимости:
+'''shell
+pip install -r requirements.txt
+'''

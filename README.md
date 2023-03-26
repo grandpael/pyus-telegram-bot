@@ -1,6 +1,6 @@
 ## Установка
 
 Установить зависимости:
-'''shell
+```shell
 pip install -r requirements.txt
-'''
+```

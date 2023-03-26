@@ -1,1 +1,1 @@
-token = '6079344372:AAE6gjm4sv_SqNvexO2ZSdhUufcRPUywyvM'
+token = 'input token'
